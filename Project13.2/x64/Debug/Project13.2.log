@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\MAXIMUS\source\repos\Project13.2\Project13.2\FileName.cpp(38,3): warning C4101: xypz: неиспользованная локальная переменная
+C:\Users\MAXIMUS\source\repos\Project13.2\Project13.2\FileName.cpp(37,3): warning C4101: xmyz: неиспользованная локальная переменная
+  Project13.2.vcxproj -> C:\Users\MAXIMUS\source\repos\Project13.2\x64\Debug\Project13.2.exe
